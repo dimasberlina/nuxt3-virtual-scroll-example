@@ -1,8 +1,8 @@
-# Project
+# Virtual scroll example
 
-Current project is reimplementattion of [w3cj/react-infinite-scroll-example](https://github.com/w3cj/react-infinite-scroll-example) in Nuxt 3 with the help of [@vueuse/core](https://www.npmjs.com/package/@vueuse/core)  package.
+Current project is reimplementation of [w3cj/react-infinite-scroll-example](https://github.com/w3cj/react-infinite-scroll-example) in Nuxt 3 with the help of [@vueuse/core](https://www.npmjs.com/package/@vueuse/core) package.
 
-# Nuxt 3 Minimal Starter
+## Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
